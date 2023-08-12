@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Continents App</string>
+    <string name="africa">Africa</string>
+    <string name="asia">Asia</string>
+    <string name="europe">Europe</string>
+    <string name="north_america">North America</string>
+    <string name="south_america">South America</string>
+
+
+    <string-array name="africa_countries">
+        <item>Algeria</item>
+        <item>Angola</item>
+
+    </string-array>
+
+    <string-array name="asia_countries">
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+
+    </string-array>
+
+    <string-array name="europe_countries">
+        <item>Albania</item>
+        <item>Andorra</item>
+
+    </string-array>
+
+    <string-array name="north_america_countries">
+        <item>Canada</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="oceania_countries">
+        <item>Australia</item>
+        <item>New Zealand</item>
+
+    </string-array>
+
+    <string-array name="south_america_countries">
+        <item>Brazil</item>
+        <item>Argentina</item>
+
+    </string-array>
+
+</resources>
